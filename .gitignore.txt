@@ -1,0 +1,18 @@
+# Flutter
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Android
+android/.gradle
+android/app/build
+
+# Node backend
+backend/node_modules/
+
+# Logs
+*.log
+
+# APK
+*.apk

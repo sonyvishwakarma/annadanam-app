@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "16761941874",
+    "firebase_url": "https://annadanam-food-charity-default-rtdb.firebaseio.com",
+    "project_id": "annadanam-food-charity",
+    "storage_bucket": "annadanam-food-charity.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16761941874:android:eec14499eafffd2639f7eb",
+        "android_client_info": {
+          "package_name": "com.annadanam.foodcharity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArcMFzO2ve_IjJAi1YD1lU-tDpLqFjjag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
